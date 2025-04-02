@@ -1,3 +1,4 @@
+# Practice Programs
 1. Write a program to display your information using print () method. 
 2. Write a program to display “Java is an object-oriented programming language” using command line arguments. 
 3. Write a program to perform all the arithmetic operation by taking inputs from command line. 
