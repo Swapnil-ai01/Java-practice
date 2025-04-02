@@ -1,12 +1,13 @@
 import java.util.Scanner;
-class Task3 {
+class Task03 {
     public static void main(String[] args){
-        Scanner obj = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Write two number for operations");
         System.out.print("First number: ");
-        int a = obj.nextInt();
+        int a = sc.nextInt();
         System.out.print("Second number: ");
-        int b = obj.nextInt();
+        int b = sc.nextInt();
+        sc.close()
         System.out.println("The Sum = " +(a +  b));
         System.out.println("The Subtraction = " +(a - b));
         System.out.println("The Multiplication = " +(a * b));
