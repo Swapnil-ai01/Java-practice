@@ -1,4 +1,4 @@
-class Task9{
+class Task09{
     public static void main(String[] args){
         int intNum = 100;
         double doubleNum = intNum;
