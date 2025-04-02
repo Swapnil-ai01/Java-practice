@@ -7,7 +7,7 @@ class Task03 {
         int a = sc.nextInt();
         System.out.print("Second number: ");
         int b = sc.nextInt();
-        sc.close()
+        sc.close();
         System.out.println("The Sum = " +(a +  b));
         System.out.println("The Subtraction = " +(a - b));
         System.out.println("The Multiplication = " +(a * b));
