@@ -28,3 +28,6 @@
   e)  Check for the minimum balance, impose penalty. If necessary, and update the balance. Display all the information.
 20. Write a program to calculate the area of two different rectangle using class & objects.  
 21. Perform the Q. No. 19 by introducing methods for initializing the values and for calculating the area. 
+22. Write a program to perform the Stack operations using class & objects.
+23. Write a program to calculate the Volume of rectangle and cube using method overloading.
+24. Perform the Q. No. 23 using constructor overloading.
