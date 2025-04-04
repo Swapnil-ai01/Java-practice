@@ -14,10 +14,10 @@
 13. Write a program to sort element of an array. 
 14. Write a program to perform the matrix addition & multiplication by allocation memory for an array dynamically.
 15. Write a program to read marks out of 100. Declare result as follows:  
-  a) 60 or more 1st class.
-  b) 50-59 2nd class.
-  c) 40-49 pass.
-  d) Less than 40 fail.
+  a) 60 or more 1st class.<br>
+  b) 50-59 2nd class.<br>
+  c) 40-49 pass.<br>
+  d) Less than 40 fail.<br>
 17. Write a program to check whether a year is a leap year or not. 
 18. Write a program to read string from console and display the number of occurrence of each word. 
 19. Assume that a bank maintains account for its customers; it may be saving or current. The saving account provides compound interest and withdrawal facilities but not cheque book. The current account provides cheque book but no interest. Current account holders should also maintain a min balance & if the balance falls below, a service charge is imposed. Perform the problem by using the switch cases. Include the necessary methods in order to achieve the following tasks inside switch case:  
@@ -31,3 +31,6 @@
 22. Write a program to perform the Stack operations using class & objects.
 23. Write a program to calculate the Volume of rectangle and cube using method overloading.
 24. Perform the Q. No. 23 using constructor overloading.
+25. Write a program to show pass by value and pass by reference.
+26. Write a program to show how object and be returned.
+27. Perform the Q. No. 5 using class, object and recursion.
