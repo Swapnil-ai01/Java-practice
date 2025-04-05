@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Task14 {
-    private static int[][] write(Scanner sc) {
+    static int[][] write(Scanner sc) {
         int[][] matrx = new int[3][3];
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
@@ -9,7 +9,7 @@ class Task14 {
         }
         return matrx;
     }
-    public static void read(int[][] matrx) {
+    static void read(int[][] matrx) {
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
                 System.out.print(matrx[i][j] + " ");
@@ -17,7 +17,7 @@ class Task14 {
             System.out.println();
         }
     }
-    public static int[][] Sum(int[][] matrxA, int[][] matrxB){
+    static int[][] Sum(int[][] matrxA, int[][] matrxB){
         int[][] matrxSum = new int[3][3];
         for(int i = 0;i<3;i++){
             for (int j = 0; j < 3; j++) {
@@ -26,7 +26,7 @@ class Task14 {
         }
         return matrxSum;
     }
-    public static int[][] mult(int[][] matrxA,int[][] matrxB){
+    static int[][] mult(int[][] matrxA,int[][] matrxB){
         int[][] matrxMult = new int[3][3];
 
         for(int i = 0; i < 3;i++){
