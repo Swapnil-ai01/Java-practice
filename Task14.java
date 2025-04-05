@@ -28,7 +28,6 @@ class Task14 {
     }
     static int[][] mult(int[][] matrxA,int[][] matrxB){
         int[][] matrxMult = new int[3][3];
-
         for(int i = 0; i < 3;i++){
             for(int j = 0;j < 3;j++){
                 matrxMult[i][j]=0;
