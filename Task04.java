@@ -1,14 +1,14 @@
-import java.util.Scanner;
+// Please write number in command line arguments
 class Task04{
     public static void main(String[] args){
-    Scanner num = new Scanner(System.in);
-    System.out.print("Write any number: ");
-    int a = num.nextInt();
-    num.close();
-    int sum = 0;
-    for(int i=0 ; i<=a ; i++){
-        sum += i;
+        if (args.length==0) {
+            System.out.println("Nothing in arguments");
+        }else{
+            int sum = 0;
+            for(String i :args){
+                sum += Integer.parseInt(i);
+            }
+            System.out.print("Sum of the numbers in command line args = "+ sum);
+        }
     }
-    System.out.print("Sum of the number upto "+ a +" = "+ sum);
-}
 }
