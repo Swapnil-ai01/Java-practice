@@ -22,7 +22,7 @@ class Task13{
             }
         }
     }
-    System.out.print("\nShoted array : ");
+    System.out.print("\nShorted array : ");
     for(int i = 0;i<5;i++){
     System.out.print(array[i]);
     if(i<4)System.out.print(",");
