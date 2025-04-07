@@ -34,3 +34,7 @@
 25. Write a program to show pass by value and pass by reference.
 26. Write a program to show how object and be returned.
 27. Perform the Q. No. 5 using class, object and recursion.
+28. Write a program to show how static can be used in java.
+29. Input two one dimensional arrays A and B which are in ascending order. Write a program 
+to merge them into a single sorted array C that contains every item from array A and B in 
+ascending order. 
