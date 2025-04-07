@@ -22,11 +22,10 @@ class Task13{
             }
         }
     }
-    System.out.print("\nShorted array : ");
+    System.out.print("\nSorted array : ");
     for(int i = 0;i<5;i++){
     System.out.print(array[i]);
     if(i<4)System.out.print(",");
     }
-
-    }
+ }
 }
