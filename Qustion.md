@@ -13,7 +13,7 @@
 12. Write a program to show the scope and lifetime of a variable. 
 13. Write a program to sort element of an array. 
 14. Write a program to perform the matrix addition & multiplication by allocation memory for an array dynamically.
-15. Write a program to read marks out of 100. Declare result as follows:<br>  
+15. Write a program to read marks out of 100. Declare result as follows:
   a) 60 or more 1st class.<br>
   b) 50-59 2nd class.<br>
   c) 40-49 pass.<br>
@@ -39,7 +39,7 @@
 to merge them into a single sorted array C that contains every item from array A and B in 
 ascending order.
 30. Write a program to accept the shopping list of 5 items and stores them in a vector to 
-accomplish the following task. 
+accomplish the following task.<br> 
   a) Delete an item from the list.<br> 
   b) Add an item at a specified location in the list.<br> 
   c) Add item at the end of the list. <br>
