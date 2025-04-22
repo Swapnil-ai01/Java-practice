@@ -20,12 +20,12 @@
   d) Less than 40 fail.<br>
 17. Write a program to check whether a year is a leap year or not. 
 18. Write a program to read string from console and display the number of occurrence of each word. 
-19. Assume that a bank maintains account for its customers; it may be saving or current. The saving account provides compound interest and withdrawal facilities but not cheque book. The current account provides cheque book but no interest. Current account holders should also maintain a min balance & if the balance falls below, a service charge is imposed. Perform the problem by using the switch cases. Include the necessary methods in order to achieve the following tasks inside switch case:  
-  a) Accept deposit from a customer and update the balance. 
-  b) Display the balance.  
-  c) Compute and deposit interest  
-  d) Permit withdrawal and update the balance.  
-  e)  Check for the minimum balance, impose penalty. If necessary, and update the balance. Display all the information.
+19. Assume that a bank maintains account for its customers; it may be saving or current. The saving account provides compound interest and withdrawal facilities but not cheque book. The current account provides cheque book but no interest. Current account holders should also maintain a min balance & if the balance falls below, a service charge is imposed. Perform the problem by using the switch cases. Include the necessary methods in order to achieve the following tasks inside switch case:<br> 
+  a) Accept deposit from a customer and update the balance.<br>
+  b) Display the balance.<br>
+  c) Compute and deposit interest<br>
+  d) Permit withdrawal and update the balance.<br>
+  e)  Check for the minimum balance, impose penalty. If necessary, and update the balance.<br> Display all the information.
 20. Write a program to calculate the area of two different rectangle using class & objects.  
 21. Perform the Q. No. 19 by introducing methods for initializing the values and for calculating the area. 
 22. Write a program to perform the Stack operations using class & objects.
