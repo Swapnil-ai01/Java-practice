@@ -37,4 +37,43 @@
 28. Write a program to show how static can be used in java.
 29. Input two one dimensional arrays A and B which are in ascending order. Write a program 
 to merge them into a single sorted array C that contains every item from array A and B in 
-ascending order. 
+ascending order.
+30. Write a program to accept the shopping list of 5 items and stores them in a vector to 
+accomplish the following task. 
+1. Delete an item from the list.<br> 
+2. Add an item at a specified location in the list.<br> 
+3. Add item at the end of the list. <br>
+Print all the desired information. Perform the task using class & objects.<br>
+31. Assume that the bank maintains two kinds of account. One called Saving Account and the 
+other is Current Account. The saving account provides compound interest and withdrawal 
+facility but no cheque book facility. The current account provides cheque book facility and 
+withdrawal facility but no interest. Current account holders should also maintains a 
+minimum balance and if the balance falls below this level, a service charge is imposed.   
+Create a class Account that stores customer name, account number, and the type of account. 
+From this derive the class curr_acct and sav_acct to make them more specific to their 
+requirement. Include the necessary methods in order to achieve the following task. 
+• Accept deposit from customer and update the balance.<br> 
+• Display the balance. <br>
+• Permit withdrawal and compute the balance.<br> 
+• Check for minimum balance, impose penalty if necessary and update the balance. <br>
+Display all the desired information. <br>
+32. Write a program to show the use of super.
+33. Assume that the publishing company markets print books and digital books. Create a class 
+named Publication with data members named title, price and authors name. from 
+Publication class derive two classes named Books and Ebooks. The Book class adds a page 
+count data member named pcount while Ebook adds data member playing time name 
+ptime. Each of the classes must have member functions getdata() to read class specific data 
+from keyboard and displaydata() to output the class specific data to the computer screen. 
+Write a Program to test these classes.
+34. Assume that a shape interface contains the data members PI and functions area () and 
+perimeter (). Implement these two methods according to type of shape like circle, rectangle 
+and square classes.
+35. Assume that binary interface contains the method: binary to decimal, decimal to binary, 
+two’s complement and binary addition. Create the appropriate classes to implement these 
+methods.
+36. Write a program to display the use of all access modifiers with the help of two packages.
+37.  Design a package to contain the class student and another package that contains the interface sports. Write a program to display the Rollno, Paper1, Paper2 and total score of the 
+candidates.
+38. Write a program to show the use of simple try/catch statement.
+39. Write a program to show the use of nested try/catch statements.
+40. Write a program to show the use of “throw”, “throws” and “finally” keyword. 
