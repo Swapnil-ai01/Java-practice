@@ -40,9 +40,9 @@ to merge them into a single sorted array C that contains every item from array A
 ascending order.
 30. Write a program to accept the shopping list of 5 items and stores them in a vector to 
 accomplish the following task. 
-  1. Delete an item from the list.<br> 
-  2. Add an item at a specified location in the list.<br> 
-  3. Add item at the end of the list. <br>
+  a) Delete an item from the list.<br> 
+  b) Add an item at a specified location in the list.<br> 
+  c) Add item at the end of the list. <br>
 Print all the desired information. Perform the task using class & objects.<br>
 31. Assume that the bank maintains two kinds of account. One called Saving Account and the 
 other is Current Account. The saving account provides compound interest and withdrawal 
