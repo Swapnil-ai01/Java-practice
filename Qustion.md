@@ -13,7 +13,7 @@
 12. Write a program to show the scope and lifetime of a variable. 
 13. Write a program to sort element of an array. 
 14. Write a program to perform the matrix addition & multiplication by allocation memory for an array dynamically.
-15. Write a program to read marks out of 100. Declare result as follows:  
+15. Write a program to read marks out of 100. Declare result as follows:<br>  
   a) 60 or more 1st class.<br>
   b) 50-59 2nd class.<br>
   c) 40-49 pass.<br>
